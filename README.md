@@ -9,7 +9,7 @@
 
 - 👀 ***Discord is my second home***, a space where I can connect with other developers and friends from all over the world while learning and improving my skills in mobile programming. In addition to programming, I also enjoy playing video games and socializing with friends in my free time. I'm always available on Discord, ready to program, play, or chat
 
-- 🌱 I’m currently learning ***AppDevelop*** with Kotlin and Flutter 📱
+- 🌱 I’m currently learning ***AppDevelop*** with Kotlin 📱
 
 - 👯 I’m looking to collaborate on **open source projects**
 
