@@ -1,7 +1,7 @@
 <div id="header" aling="center">
     <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250" alt="" align="left"/>
     <h1 align="center">Hi 👋, I'm Jose Luis but my friends call me "Chimy" </h1>
-    <h2 align="rigth">🙋‍♂️ I'm 23 years old, I am from Argentina. Passionate about video games🎮, role-playing🎲🧙‍♂️🐲 and geek culture (anime, comics, movies, etc.) 
+    <h2 align="rigth">🙋‍♂️ I'm 23 years old, from Argentina. Passionate about video games🎮, role-playing🎲🧙‍♂️🐲 and geek culture (anime, comics, movies, etc.) 
     </h2>
 </div>
 
