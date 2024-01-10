@@ -5,7 +5,7 @@
     </h2>
 </div>
 
-- 👨‍🎓 Student of **systems engineering** and **university technical degree in programming** at the ***Universidad Tecnologica Nacional (UTN)*** 🇦🇷 , self-taught in learning mobile development for android. 💻
+- 👨‍🎓 Student of **systems engineering** and **associate degree in programming** at the ***Universidad Tecnologica Nacional (UTN)*** 🇦🇷 , self-taught in learning mobile development for android. 💻
 
 - 👀 ***Discord is my second home***, a space where I can connect with other developers and friends from all over the world while learning and improving my skills in mobile programming. In addition to programming, I also enjoy playing video games and socializing with friends in my free time. I'm always available on Discord, ready to program, play, or chat
 
